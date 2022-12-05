@@ -1,0 +1,8 @@
+PARA A CRIAÇÃO DO PROJETO FORAM UTILIZADAS ALGUMAS DEPENDENCIAS, UTILIZE:
+
+Para instalar as dependencias do projeto:
+npm install
+
+Para inicializar o projeto:
+npm start
+expo start
